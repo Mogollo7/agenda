@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1794863380620",
+    "creada": 1794863380620,
+    "resuelta": false,
+    "espacio": "Zona común",
+    "tipo": "Seguridad",
+    "descripcion": "Extintor del pasillo sin carga vigente",
+    "prioridad": "Alta"
+  },
+  {
+    "id": "1794863375353",
+    "creada": 1794863375353,
+    "resuelta": false,
+    "espacio": "Aula",
+    "tipo": "Limpieza",
+    "descripcion": "Residuos acumulados detrás del tablero",
+    "prioridad": "Media"
+  },
+  {
+    "id": "1794863370454",
+    "creada": 1794863370454,
+    "resuelta": true,
+    "espacio": "Laboratorio",
+    "tipo": "Eléctrica",
+    "descripcion": "Tomacorriente de la mesa 3 sin energía",
+    "prioridad": "Alta"
+  }
+]

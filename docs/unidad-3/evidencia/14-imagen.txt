@@ -1,0 +1,11 @@
+# docker images + docker inspect User + docker stats
+
+--- docker images ---
+servidor-inspecciones-api:latest   f26c323db8da        244MB         62.5MB   U    
+
+--- docker inspect User ---
+node
+
+--- docker stats ---
+CONTAINER ID   NAME                          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+c960514dd547   servidor-inspecciones-api-1   0.01%     14.79MiB / 128MiB   11.55%    54.3kB / 34.5kB   0B / 205kB   7

@@ -1,0 +1,12 @@
+curl -i -sS -X POST $BASE/inspecciones -H "Content-Type: application/json" -H "Authorization: Bearer $API_TOKEN" -d (20KB payload)
+
+HTTP/1.1 413 Payload Too Large
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+Cache-Control: no-store
+Date: Mon, 16 Nov 2026 21:12:22 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"error":"Cuerpo demasiado grande"}

@@ -1,0 +1,14 @@
+# 65 peticiones GET rápidas para provocar 429
+
+429 alcanzado en petición 46
+HTTP/1.1 429 Too Many Requests
+Retry-After: 54
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+Cache-Control: no-store
+Date: Mon, 16 Nov 2026 21:12:28 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"error":"Demasiadas peticiones"}

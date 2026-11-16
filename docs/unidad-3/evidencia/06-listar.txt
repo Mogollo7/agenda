@@ -1,0 +1,12 @@
+curl -i -sS "http://127.0.0.1:3000/api/v1/inspecciones?limit=5"
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+Cache-Control: no-store
+Date: Mon, 16 Nov 2026 21:12:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"datos":[{"id":3,"idLocal":null,"espacio":"Sala","tipo":"Equipamiento","descripcion":"Proyector de la sala de reuniones no enciende","prioridad":"Baja","estado":"Pendiente","creada":"2026-11-16T21:12:21.711Z","actualizada":"2026-11-16T21:12:21.711Z"},{"id":2,"idLocal":null,"espacio":"Aula","tipo":"Limpieza","descripcion":"Piso mojado en pasillo principal del aula","prioridad":"Media","estado":"Pendiente","creada":"2026-11-16T21:12:21.649Z","actualizada":"2026-11-16T21:12:21.649Z"},{"id":1,"idLocal":"1763316000000","espacio":"Laboratorio","tipo":"Eléctrica","descripcion":"Tomacorriente de la mesa 3 sin energía","prioridad":"Alta","estado":"Pendiente","creada":"2026-11-16T14:30:00.000Z","actualizada":"2026-11-16T21:12:21.259Z"}],"total":3,"limit":5,"offset":0}

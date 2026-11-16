@@ -1,0 +1,12 @@
+curl -i -sS -X POST $BASE/inspecciones -H "Content-Type: application/json" -H "Authorization: Bearer $API_TOKEN" -d ...(descripcion corta)
+
+HTTP/1.1 400 Bad Request
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+Cache-Control: no-store
+Date: Mon, 16 Nov 2026 21:12:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"error":"validacion","campos":{"descripcion":"Debe tener entre 10 y 300 caracteres"}}
