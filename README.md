@@ -6,6 +6,9 @@
 
 ---
 
+**Equipo:** Juan Sebastián Martínez Galeano · Cesar Ocampo Raigosa · Samuel Usma Brand
+**Curso:** Desarrollo de Aplicaciones Móviles · Corporación Universitaria Lasallista · Docente: Ing. Neider Xavier Vergara Humánez
+
 ## 1. Arquitectura General y Evolución
 
 El proyecto ha transitado a través de dos fases de ingeniería clave en la asignatura **Aplicaciones Móviles**:

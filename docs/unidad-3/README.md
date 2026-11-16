@@ -9,7 +9,10 @@ Este directorio contiene la documentación técnica completa del paso de **Inspe
 
 | Parámetro | Detalle |
 |---|---|
-| **Asignatura** | Aplicaciones Móviles |
+| **Asignatura** | Desarrollo de Aplicaciones Móviles |
+| **Institución** | Corporación Universitaria Lasallista |
+| **Docente** | Ing. Neider Xavier Vergara Humánez |
+| **Integrantes** | Juan Sebastián Martínez Galeano · Cesar Ocampo Raigosa · Samuel Usma Brand |
 | **Unidad temática** | Unidad 3 · Back-End y servicios distribuidos |
 | **Actividad** | Actividad de seguimiento – Unidad 3 |
 | **Aplicación base** | InspectApp (Expo / React Native / AsyncStorage / NetInfo) |
