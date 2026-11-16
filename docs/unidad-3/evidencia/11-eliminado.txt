@@ -1,0 +1,12 @@
+curl -i -sS http://127.0.0.1:3000/api/v1/inspecciones/1
+
+HTTP/1.1 404 Not Found
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+Cache-Control: no-store
+Date: Mon, 16 Nov 2026 21:12:22 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"error":"No encontrado"}
